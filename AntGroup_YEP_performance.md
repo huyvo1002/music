@@ -15,16 +15,16 @@
 1. **Chờ người nơi ấy** (Việt)
 2. **Để em rời xa** (Việt)
 3. **Ngày mai người ta lấy chồng** (Việt)
-4. **起风了** (Chinese/phiên âm)
+4. **我们不一样 (Chúng ta không giống nhau)** (Chinese/phiên âm)
 5. **E là không thể** (Việt)
 6. **Cheri cheri lady** (English)
 7. **Phải chia tay thôi** (Việt)
 8. **You are my heart you are my soul** (English)
 9. **Ai chung tình được mãi** (Việt)
-10. **兄弟啊想你了** (Chinese/phiên âm)
+10. **兄弟啊想你了 (Huy đệ ơi)** (Chinese/phiên âm)
 11. **Trouble is a friend** (English)
 12. **Cô đơn trên sofa** (Việt)
-13. **別知己** (Chinese/phiên âm)
+13. **別知己 (Biệt tri kỉ)** (Chinese/phiên âm)
 14. **Tất cả hoặc không là gì cả** (Việt)
 
 ---
@@ -36,7 +36,7 @@
 | 1 | Chờ người nơi ấy | Uyên Linh | Dm (Rê thứ) | **Am** |
 | 2 | Để em rời xa | Hoàng Tôn | Bbm (Si giáng thứ) | **Am** |
 | 3 | Ngày mai người ta lấy chồng | Thành Đạt | F#m (Fa thăng thứ) | **Am** |
-| 4 | 起风了 (Nổi Gió Rồi) | Ngô Thanh Phong | B (Si trưởng) | **C/Am** |
+| 4 | 我们不一样 (Chúng Ta Không Giống Nhau) |  Cao Tiến (高进) | B (Si trưởng) | **C/Am** |
 | 5 | E là không thể | V2 | C#m (Đô thăng thứ) | **Am** |
 | 6 | Cheri Cheri Lady | Modern Talking | Am (La thứ) | **Am** |
 | 7 | Phải chia tay thôi | Tuấn Hưng | Dm (Rê thứ) | **Am** |
@@ -77,16 +77,23 @@
 [Em] Kể từ nay anh mất đi [Am] nàng
 [Dm] Ai mang khổ đau, ai mang [Em] nỗi sầu... sang [Am] giàu.
 
-#### 4. 起风了 (Qǐ Fēng Le - Nổi Gió Rồi)
+#### 4. Chúng Ta Không Giống Nhau (我们不一样)
 
-[F] Wǒ céng nán kě [G] wàng nán, [Em] qù kàn zhè shān [Am] hǎi
-(Tôi từng nhìn về phía Nam, đi ngắm nhìn núi sông này)
-[F] Duō shǎo cì jiù [G] zhèyàng [C] wàng le shuí
-(Đã bao lần cứ như vậy mà quên đi một người)
-[F] Tā qù le [G] tiān yá, [Em] nǐ dài zài [Am] hǎi jiǎo
-(Người đi tới chân trời, bạn ở lại góc biển)
-[Dm] Yǎn dǐ wēn róu [Em] shì cǐ shēng [Am] duì bái
-(Đáy mắt ôn nhu là lời đối bạch của kiếp này).
+[Am] Zhème duō nián [Em] de xiōngdì
+[F] yǒu shuí bǐ wǒ [C] gèng liǎojiě nǐ [Dm] Tàiduō de jiān [Am] xīn
+[F] mǒ bù diào de [E7] lèi dī [Am] Zhème duō nián [Em] de xiōngdì
+[F] yǒu shuí bǐ wǒ [C] gèng liǎojiě nǐ [Dm] Tàiduō de kǔ [E7] shuǐ
+[Am] zài xīn lǐ
+
+[Dm] Zhèyàng de [Em] sòngbié
+[C] zhèyàng de [F] chǎngmiàn [Dm] Zhèyàng de [Em] háiyǒu [Am] duōshǎo tiān [Dm] Zhèyàng de [Em] qíngyì
+[C] zhèyàng de [F] hánxuān [Dm] Zhèyàng de [E7] nǐ nàme [Am] bùfán
+
+[Dm] Wǒmen bù [Em] yīyàng
+[C] měigèrén dōu [F] yǒu bùtóng de jìngyù [Dm] Wǒmen zài [Em] zhèlǐ
+[Am] zài zhèlǐ dǐng nǐ [Dm] Wǒmen bù [Em] yīyàn
+[C] suīrán huì jīng[F]lì bùtóng de shìqíng [Dm] Wǒmen zài [E7] zhèlǐ
+[Am] zài zhèlǐ děng nǐz
 
 #### 5. E là không thể
 
