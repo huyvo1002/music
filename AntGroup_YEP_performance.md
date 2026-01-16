@@ -15,7 +15,7 @@
 
 ### **PHẦN 1: MỞ MÀN (0:00-3:00)**
 1. **Chờ người nơi ấy** (Việt) - Band
-2. **Despacito** (Spanish/phiên âm) - Bạn → Xuống bàn 1
+2. **Để em rời xa** (Việt/remix bùng nổ)
 
 ### **PHẦN 2: TĂNG TỐC (3:00-10:00)**
 3. **Ngày mai người ta lấy chồng** (Việt) - Bàn 2
@@ -34,7 +34,6 @@
 
 ### **PHẦN 4: FINALE (18:00-25:00)**
 14. **Tất cả hoặc không là gì cả** (Việt) - Mời 10-15 người lên
-15. **Để em rời xa** (Việt/remix bùng nổ) - TOÀN BỘ hội trường
 
 ---
 
