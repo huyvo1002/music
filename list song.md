@@ -13,6 +13,8 @@
 10. Cheri Cheri Lady
 11. You're My Heart, You're My Soul
 12. More Than I Can Say
+13. La La La
+14. Waving flag
 
 ## 2. RUMBA / BOLERO (Nhịp điệu truyền thống)
 1. 60 Năm Cuộc Đời
