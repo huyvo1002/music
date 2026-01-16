@@ -94,9 +94,3 @@
 6. [Sứ Thanh Hoa](https://www.google.com/search?q=sứ+thanh+hoa+hợp+âm+hopamchuan)
 7. [Thần Thoại](https://www.google.com/search?q=thần+thoại+hợp+âm+hopamchuan)
 
----
-
-**Hướng dẫn sử dụng:**
-- Click vào tên bài hát để Google tìm kiếm hợp âm trên HopAmChuan
-- Chọn kết quả phù hợp nhất từ trang hopamchuan.vn
-- Lưu link chính xác nếu cần dùng thường xuyên
