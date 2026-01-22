@@ -12,14 +12,13 @@
 
 ---
 
-## 🎬 PHẦN 1: MỞ ĐẦU CẢM XÚC (2-3 phút)
+## 🎬 PHẦN 1: MỞ ĐẦU CẢM XÚC (5 phút)
 
-### 1.1 Khói Thuốc Đợi Chờ (1 phút)
-- **Style:** Piano ballad cực buồn
+### 1.1 Đi để trở về
 - **Hát:** Lời 1, nửa bài
-- **Kết thúc:** Tắt nhạc đột ngột
-
-### 1.2 Chuyển Cảnh (3 giây)
+### 1.2 Khúc Giao mùa
+- 1 lời nửa bài
+### 1.3 Chuyển Cảnh (3 giây)
 - **Im lặng hoàn toàn**
 - Tạo khoảng lặng để chuyển mood
 
