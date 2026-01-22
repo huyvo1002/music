@@ -29,7 +29,7 @@
 - **Chuyển:** Sang remix để vào phần chính
 ---
 
-## 🎵 PHẦN 2: MASHUP BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
+## 🎵 PHẦN 2: MASHUP BÀI ĐA NGÔN NGỮ (15 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
 
 ### DANH SÁCH BÀI HÁT (CÓ THỂ HÁT BÀI K CÓ TRONG LIST THOẢI MÁI NHẠC CÔNG LO ĐƯỢC, NAM NỮ ĐỀU ĐƯỢC)
 
