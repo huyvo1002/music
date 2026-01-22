@@ -27,7 +27,9 @@
 - **Mở nhạc:** Tây Du Ký remix (thông thiên đại hạo khoan hựu khoát https://www.youtube.com/watch?v=xZHKMFM_2aA)
 - **Thời lượng:** Vừa đủ hết bài, không kéo dài
 - **Chuyển:** Sang remix để vào phần chính
-
+### 1.4 Happy new year
+- **Mở nhạc:** Happy new year remix (https://www.youtube.com/watch?v=cCquthaOTAg)
+- 
 ---
 
 ## 🎵 PHẦN 2: MASHUP 14 BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
