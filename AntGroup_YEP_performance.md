@@ -1,6 +1,6 @@
 # 🎭 KỊCH BẢN YEAR-END PARTY
 
-**Tổng thời lượng:** ~28 phút  
+**Tổng thời lượng:** ~20 phút  
 **Format:** Mở đầu ballad → Mashup đa ngôn ngữ → Finale tương tác
 
 ---
@@ -35,7 +35,7 @@
 
 ## 🎵 PHẦN 2: MASHUP 14 BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
 
-### DANH SÁCH BÀI HÁT
+### DANH SÁCH BÀI HÁT (CÓ THỂ HÁT BÀI K CÓ TRONG LIST THOẢI MÁI NHẠC CÔNG LO ĐƯỢC, NAM NỮ ĐỀU ĐƯỢC)
 
 | STT | Tên bài | Ngôn ngữ | Tone gốc | Tone mashup |
 |-----|---------|----------|----------|-------------|
@@ -60,13 +60,7 @@
 | Thời gian | Hành động |
 |-----------|-----------|
 | **0-3 phút** | Mở đầu cảm xúc, chưa xuống bàn |
-| **3-18 phút** | Xuống 9 bàn khác nhau, đưa mic liên tục |
+| **3-17 phút** | Khán giả hát |
 | **18-28 phút** | Về sân khấu, mời đám đông lên hát finale |
 
 ---
-
-## ✅ CHECKLIST TRƯỚC GIỜ G
-
-- [ ] Test mic không dây (2-3 cái)
-- [ ] Kiểm tra màn hình lyric + phiên âm Trung
-- [ ] Chuẩn bị tâm lý chuyển mood từ buồn → sôi động
