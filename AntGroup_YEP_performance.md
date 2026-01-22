@@ -28,7 +28,7 @@
 - **Thời lượng:** Vừa đủ hết bài, không kéo dài
 - **Chuyển:** Sang remix để vào phần chính
 ### 1.4 Happy new year
-- Happy new year script "Happy New Year! Together as Alipay+, Antom, CreditTech, WorldFirst, 2C2P, and EPOS, we are one Ant family. Wishing us all a successful 2026. Let's make this year great together!"
+- Happy new year script "Happy New Year! Together as Alipay+, Antom, Bettr, WorldFirst, 2C2P, and EPOS, we are one Ant family. Wishing us all a successful 2026. Let's make this year great together!"
 - **Mở nhạc:** Happy new year remix (https://www.youtube.com/watch?v=cCquthaOTAg)
 - 
 ---
