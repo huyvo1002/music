@@ -59,8 +59,8 @@
 
 | Thời gian | Hành động |
 |-----------|-----------|
-| **0-3 phút** | Mở đầu cảm xúc, chưa xuống bàn |
-| **3-17 phút** | Khán giả hát |
-| **18-28 phút** | Về sân khấu, mời đám đông lên hát finale |
+| **0-5 phút** | Mở đầu cảm xúc, chưa xuống bàn |
+| **5-10 phút** | Khán giả hát |
+| **15-20 phút** | Về sân khấu, mời đám đông lên hát finale |
 
 ---
