@@ -27,13 +27,9 @@
 - **Mở nhạc:** Tây Du Ký remix (thông thiên đại hạo khoan hựu khoát https://www.youtube.com/watch?v=xZHKMFM_2aA)
 - **Thời lượng:** Vừa đủ hết bài, không kéo dài
 - **Chuyển:** Sang remix để vào phần chính
-### 1.4 Happy new year
-- Happy new year script "Happy New Year! Together as Alipay+, Antom, Bettr, WorldFirst, 2C2P, and EPOS, we are one Ant family. Wishing us all a successful 2026. Let's make this year great together!"
-- **Mở nhạc:** Happy new year remix (https://www.youtube.com/watch?v=cCquthaOTAg)
-- 
 ---
 
-## 🎵 PHẦN 2: MASHUP 14 BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
+## 🎵 PHẦN 2: MASHUP BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
 
 ### DANH SÁCH BÀI HÁT (CÓ THỂ HÁT BÀI K CÓ TRONG LIST THOẢI MÁI NHẠC CÔNG LO ĐƯỢC, NAM NỮ ĐỀU ĐƯỢC)
 
@@ -53,6 +49,10 @@
 | 12| **別知己** (Biệt Tri Kỷ) | Chinese | Gm | **Am** |
 | 14| **Tất cả hoặc không là gì cả** | Việt | Fm | **Am** |
 
+### ENDING
+- Happy new year script: "Happy New Year! Together as Alipay+, Antom, Bettr, WorldFirst, 2C2P, and EPOS, we are one Ant family. Wishing us all a successful 2026. Let's make this year great together!"
+- **Mở nhạc:** Happy new year remix (https://www.youtube.com/watch?v=cCquthaOTAg)
+- 
 ---
 
 ## 🎯 CHIẾN THUẬT TƯƠNG TÁC
