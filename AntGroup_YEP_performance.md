@@ -41,18 +41,17 @@
 |-----|---------|----------|----------|-------------|
 | 1 | **Chờ người nơi ấy** | Việt | Dm | **Am** |
 | 2 | **Để em rời xa** | Việt | Bbm | **Am** |
-| 3 | **Ngày mai người ta lấy chồng** | Việt | F#m | **Am** |
+| 3 | **Cô đơn trên sofa** | Việt | C#m | **Am** |
 | 4 | **我们不一样** (Chúng ta không giống nhau) | Chinese | B | **C/Am** |
 | 5 | **E là không thể** | Việt | C#m | **Am** |
-| 6 | **Cheri Cheri Lady** | English | Am | **Am** |
-| 7 | **Phải chia tay thôi** | Việt | Dm | **Am** |
+| 6 | **Phải chia tay thôi** | Việt | Dm | **Am** |
+| 7 | **兄弟啊想你了** (Huynh đệ à) | Chinese | Dm | **Am** |
 | 8 | **You Are My Heart, You Are My Soul** | English | F#m | **Am** |
 | 9 | **Ai chung tình được mãi** | Việt | Ebm | **Am** |
-| 10 | **兄弟啊想你了** (Huynh đệ à) | Chinese | Dm | **Am** |
-| 11 | **Trouble Is a Friend** | English | Am | **Am** |
-| 12 | **Cô đơn trên sofa** | Việt | C#m | **Am** |
-| 13 | **別知己** (Biệt Tri Kỷ) | Chinese | Gm | **Am** |
-| 14 | **Tất cả hoặc không là gì cả** | Việt | Fm | **Am** |
+| 10| **Ngày mai người ta lấy chồng** | Việt | F#m | **Am** |
+| 11| **Trouble Is a Friend** | English | Am | **Am** |
+| 12| **別知己** (Biệt Tri Kỷ) | Chinese | Gm | **Am** |
+| 14| **Tất cả hoặc không là gì cả** | Việt | Fm | **Am** |
 
 ---
 
