@@ -1,109 +1,70 @@
-# 🎭 KỊCH BẢN YEAR-END PARTY - 25 PHÚT
+# 🎭 KỊCH BẢN YEAR-END PARTY
+
+**Tổng thời lượng:** ~28 phút  
+**Format:** Mở đầu ballad → Mashup đa ngôn ngữ → Finale tương tác
 
 ---
 
-## 📋 **SETUP KỸ THUẬT**
+## 📋 SETUP KỸ THUẬT
 
-**Màn hình:** Lyric + Phiên âm
-**Backing Vocal:** 20%
+**Màn hình:** Lyric + Phiên âm  
 **Mic:** 2-3 cái không dây  
 
 ---
 
-## 🎬 **TIMELINE - 14 BÀI MIX ĐA NGÔN NGỮ**
+## 🎬 PHẦN 1: MỞ ĐẦU CẢM XÚC (2-3 phút)
 
-1. **Chờ người nơi ấy** (Việt)
-2. **Để em rời xa** (Việt)
-3. **Ngày mai người ta lấy chồng** (Việt)
-4. **我们不一样 (Chúng ta không giống nhau)** (Chinese/phiên âm)
-5. **E là không thể** (Việt)
-6. **Cheri cheri lady** (English)
-7. **Phải chia tay thôi** (Việt)
-8. **You are my heart you are my soul** (English)
-9. **Ai chung tình được mãi** (Việt)
-10. **兄弟啊想你了 (Huy đệ ơi)** (Chinese/phiên âm)
-11. **Trouble is a friend** (English)
-12. **Cô đơn trên sofa** (Việt)
-13. **別知己 (Biệt tri kỉ)** (Chinese/phiên âm)
-14. **Tất cả hoặc không là gì cả** (Việt)
+### 1.1 Khói Thuốc Đợi Chờ (1 phút)
+- **Style:** Piano ballad cực buồn
+- **Hát:** Lời 1, nửa bài
+- **Kết thúc:** Tắt nhạc đột ngột
 
----
+### 1.2 Chuyển Cảnh (3 giây)
+- **Im lặng hoàn toàn**
+- Tạo khoảng lặng để chuyển mood
 
-### Bảng tham khảo Tone (Pitch)
-
-| STT | Tên bài hát | Ca sĩ gốc/Phiên bản gốc | Tone Gốc | Tone Mashup |
-| --- | --- | --- | --- | --- |
-| 1 | Chờ người nơi ấy | Uyên Linh | Dm (Rê thứ) | **Am** |
-| 2 | Để em rời xa | Hoàng Tôn | Bbm (Si giáng thứ) | **Am** |
-| 3 | Ngày mai người ta lấy chồng | Thành Đạt | F#m (Fa thăng thứ) | **Am** |
-| 4 | 我们不一样 (Chúng Ta Không Giống Nhau) |  Cao Tiến (高进) | B (Si trưởng) | **C/Am** |
-| 5 | E là không thể | V2 | C#m (Đô thăng thứ) | **Am** |
-| 6 | Cheri Cheri Lady | Modern Talking | Am (La thứ) | **Am** |
-| 7 | Phải chia tay thôi | Tuấn Hưng | Dm (Rê thứ) | **Am** |
-| 8 | You're My Heart... | Modern Talking | F#m (Fa thăng thứ) | **Am** |
-| 9 | Ai chung tình được mãi | Đinh Tùng Huy | Ebm (Mi giáng thứ) | **Am** |
-| 10 | 兄弟啊想你了 (Huynh đệ à) | Khương Bằng | Dm (Rê thứ) | **Am** |
-| 11 | Trouble is a friend | Lenka | Am (La thứ) | **Am** |
-| 12 | Cô đơn trên sofa | Hồ Ngọc Hà | C#m (Đô thăng thứ) | **Am** |
-| 13 | 別知己 (Biệt Tri Kỷ) | Hải Lai A Mộc | Gm (Sol thứ) | **Am** |
-| 14 | Tất cả hoặc không là gì cả | Cao Thái Sơn | Fm (Fa thứ) | **Am** |
+### 1.3 Tây Du Ký (giây 0->37)
+- **Mở nhạc:** Tây Du Ký remix (thông thiên đại hạo khoan hựu khoát https://www.youtube.com/watch?v=xZHKMFM_2aA)
+- **Thời lượng:** Vừa đủ hết bài, không kéo dài
+- **Chuyển:** Sang remix để vào phần chính
 
 ---
 
-### MASHUP LIÊN KHÚC (TONE CHỦ ĐẠO: Am)
+## 🎵 PHẦN 2: MASHUP 14 BÀI ĐA NGÔN NGỮ (25 phút) (KHÔNG THEO THỨ TỰ, CA SĨ SẼ HÁT MỒI LÚC CHUYỂN BÀI TRƯỚC HOẶC ĐỌC TÊN BÀI HÁT TRONG LÚC CHUYỂN BÀI)
 
-#### 1. Chờ người nơi ấy
+### DANH SÁCH BÀI HÁT
 
-
-
-#### 2. Để em rời xa
-
-
-#### 3. Ngày mai người ta lấy chồng
-
-
-#### 4. Chúng Ta Không Giống Nhau (我们不一样)
-
-
-
-#### 5. E là không thể
-
-
-
-#### 6. Cheri Cheri Lady (Bắt đầu dồn nhịp nhanh hơn)
-
-
-
-#### 7. Phải chia tay thôi (Giữ nhịp vừa phải)
-
-
-
-#### 8. You're My Heart, You're My Soul (Quạt chả Disco)
-
-
-#### 9. Ai chung tình được mãi (Trở lại Ballad hoặc Disco chậm)
-
-
-#### 10. 兄弟啊想你了 (Xiōngdì a xiǎng nǐle - Huynh đệ à nhớ anh rồi)
-
-
-
-#### 11. Trouble is a Friend (Quạt chả)
-
-
-#### 12. Cô đơn trên sofa
-
-
-#### 13. 別知己 (Bié Zhī Jǐ - Biệt Tri Kỷ)
-
-
-#### 14. Tất cả hoặc không là gì cả (Kết bài - Chậm dần)
-
+| STT | Tên bài | Ngôn ngữ | Tone gốc | Tone mashup |
+|-----|---------|----------|----------|-------------|
+| 1 | **Chờ người nơi ấy** | Việt | Dm | **Am** |
+| 2 | **Để em rời xa** | Việt | Bbm | **Am** |
+| 3 | **Ngày mai người ta lấy chồng** | Việt | F#m | **Am** |
+| 4 | **我们不一样** (Chúng ta không giống nhau) | Chinese | B | **C/Am** |
+| 5 | **E là không thể** | Việt | C#m | **Am** |
+| 6 | **Cheri Cheri Lady** | English | Am | **Am** |
+| 7 | **Phải chia tay thôi** | Việt | Dm | **Am** |
+| 8 | **You Are My Heart, You Are My Soul** | English | F#m | **Am** |
+| 9 | **Ai chung tình được mãi** | Việt | Ebm | **Am** |
+| 10 | **兄弟啊想你了** (Huynh đệ à) | Chinese | Dm | **Am** |
+| 11 | **Trouble Is a Friend** | English | Am | **Am** |
+| 12 | **Cô đơn trên sofa** | Việt | C#m | **Am** |
+| 13 | **別知己** (Biệt Tri Kỷ) | Chinese | Gm | **Am** |
+| 14 | **Tất cả hoặc không là gì cả** | Việt | Fm | **Am** |
 
 ---
 
-## 🎯 **CHIẾN THUẬT TƯƠNG TÁC**
+## 🎯 CHIẾN THUẬT TƯƠNG TÁC
 
-- **Phút 0-3:** Làm nóng, chưa xuống bàn
-- **Phút 3-18:** Xuống 9 bàn khác nhau, đưa mic liên tục
-- **Phút 18-25:** Về sân khấu, mời đám đông lên hát finale
+| Thời gian | Hành động |
+|-----------|-----------|
+| **0-3 phút** | Mở đầu cảm xúc, chưa xuống bàn |
+| **3-18 phút** | Xuống 9 bàn khác nhau, đưa mic liên tục |
+| **18-28 phút** | Về sân khấu, mời đám đông lên hát finale |
+
+---
+
+## ✅ CHECKLIST TRƯỚC GIỜ G
+
+- [ ] Test mic không dây (2-3 cái)
+- [ ] Kiểm tra màn hình lyric + phiên âm Trung
+- [ ] Chuẩn bị tâm lý chuyển mood từ buồn → sôi động
