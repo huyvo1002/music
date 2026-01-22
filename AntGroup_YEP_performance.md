@@ -60,7 +60,7 @@
 | Thời gian | Hành động |
 |-----------|-----------|
 | **0-5 phút** | Mở đầu cảm xúc, chưa xuống bàn |
-| **5-10 phút** | Khán giả hát |
+| **5-15 phút** | Khán giả hát |
 | **15-20 phút** | Về sân khấu, mời đám đông lên hát finale |
 
 ---
