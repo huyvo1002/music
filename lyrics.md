@@ -1,12 +1,12 @@
 Để Em Rời Xa
-Và nếu em muốn đi xa nơi anh gạt đi tình yêu nơi anh
-Bỏ qua ngày tháng cùng nhau vượt qua nếu em hiểu
-Rồi lúc em khóc trong vòng tay anh để anh nhận ra
-Và em là giá trị để anh mang đi theo suốt cuộc đời
-Ai cũng sẽ chỉ một hạnh phúc trên dòng đường đời
-Và ai cũng sẽ nhận ra người mình không thể quên
-Thì em hãy cứ đi tìm một hạnh phúc mới
-Tìm một người thay thế anh trong những đêm
+Và nếu em muốn đi xa nơi anh gạt đi tình yêu nơi anh  
+Bỏ qua ngày tháng cùng nhau vượt qua nếu em hiểu  
+Rồi lúc em khóc trong vòng tay anh để anh nhận ra  
+Và em là giá trị để anh mang đi theo suốt cuộc đời  
+Ai cũng sẽ chỉ một hạnh phúc trên dòng đường đời  
+Và ai cũng sẽ nhận ra người mình không thể quên  
+Thì em hãy cứ đi tìm một hạnh phúc mới  
+Tìm một người thay thế anh trong những đêm  
 
 Để anh một mình nhé em em cứ đi đi
 Đập nát hết ngày tháng qua em cứ đi đi
