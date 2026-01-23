@@ -503,5 +503,3 @@ Nhưng cùng hình bóng mới \
 Và có lẽ nào... \
 
 ---
-
-Bạn có cần tôi hỗ trợ thêm gì với những lời bài hát này không?
