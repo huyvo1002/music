@@ -1,11 +1,11 @@
 ### Thông Thiên đại hạo khoan hựu khoát Tây du ký
-gāng qín zhù le jǐgè yāo ，
-yòu jiàng zhù le jǐgè mó 。
-chīmèi wǎngliáng zěn·me tā jiù zhè·me duō ！
-shā nǐ gè hún yě diū lái bó yě luò 。
-sa nỉ cưa huấn dể tiêu lái púa dể lua 。
-shén yě fādǒu ， guǐ yě duōsuo ，
-dǎ dé nà láng chōng hǔ bào wú chǔ duǒ ！
+gāng qín zhù le jǐgè yāo \
+yòu jiàng zhù le jǐgè mó \
+chīmèi wǎngliáng zěn·me tā jiù zhè·me duō \
+shā nǐ gè hún yě diū lái bó yě luò \
+sa nỉ cưa huấn dể tiêu lái púa dể lua \
+shén yě fādǒu ， guǐ yě duōsuo \
+dǎ dé nà láng chōng hǔ bào wú chǔ duǒ \
 
 ### Để Em Rời Xa \
 
