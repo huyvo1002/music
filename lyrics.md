@@ -503,3 +503,25 @@ Nhưng cùng hình bóng mới \
 Và có lẽ nào... \
 
 ---
+
+### Despacito
+
+Sí, sabes que ya llevo un rato mirándote \
+Tengo que bailar contigo hoy (DY) \
+Vi que tu mirada ya estaba llamándome \
+Muéstrame el camino que yo voy \
+Oh, tú, tú eres el imán y yo soy el metal \
+Me voy acercando y voy armando el plan \
+Solo con pensarlo se acelera el pulso (oh yeah) \
+Ya, ya me estás gustando más de lo normal \
+Todos mis sentidos van pidiendo más \
+Esto hay que tomarlo sin ningún apuro \
+Despacito \
+Quiero respirar tu cuello despacito \
+Deja que te diga cosas al oído \
+Para que te acuerdes si no estás conmigo \
+Despacito \
+Quiero desnudarte a besos despacito \
+Firmar las paredes de tu laberinto \
+Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)
+(Sube, sube) Oh
