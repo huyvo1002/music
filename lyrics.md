@@ -170,8 +170,8 @@ tónghuà li dōu shì piàn rén de \
 wǒ bù kěnéng shì nǐ de wángzǐ \
 yěxǔ nǐ bù huì dǒng \
 cóng nǐ shuō ài wǒ yǐhòu \
-
 wǒ de tiānkōng xīngxīng dōu liàngle \
+
 wǒ yuàn biàn chéng tónghuà li nǐ ài dì nàgè tiānshǐ \
 zhāng kāi shuāngshǒu \
 biàn chéng chìbǎng shǒuhù nǐ \
