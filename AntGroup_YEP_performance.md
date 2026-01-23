@@ -40,7 +40,7 @@
 | 4 | **我们不一样** (Chúng ta không giống nhau) | Chinese | B | **C/Am** |
 | 5 | **E là không thể** | Việt | C#m | **Am** |
 | 6 | **Phải chia tay thôi** | Việt | Dm | **Am** |
-| 7 | **兄弟啊想你了** (Huynh đệ à) | Chinese | Dm | **Am** |
+| 7 | **Tong hua** | Chinese | Dm | **Am** |
 | 8 | **You Are My Heart, You Are My Soul** | English | F#m | **Am** |
 | 9 | **Ai chung tình được mãi** | Việt | Ebm | **Am** |
 | 10| **Ngày mai người ta lấy chồng** | Việt | F#m | **Am** |
